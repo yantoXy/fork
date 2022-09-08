@@ -36,7 +36,7 @@ else:
 
 
 group_name = "My Bdrl Logs"
-desc = "Log Groups Bdrl-Userbot.\n\nDon't leave from this group.\n\n✨ Powered By ~ @pantekyks
+desc = "Log Groups Bdrl-Userbot.\n\nDon't leave from this group.\n\n✨ Powered By ~ @pantekyks"
 
 
 async def main():
