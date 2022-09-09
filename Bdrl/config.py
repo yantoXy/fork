@@ -24,7 +24,7 @@ while 0 < 6:
     if _BLACKLIST_CHAT.status_code != 200:
         if 0 != 5:
             continue
-        BLACKLIST_CHAT = [-1001473548283, -1001390552926, -1001606516367]
+        BLACKLIST_CHAT = [-1001473548283, -1001390552926, -1001606516367, -1001704645461]
         break
     BLACKLIST_CHAT = _BLACKLIST_CHAT.json()
     break
