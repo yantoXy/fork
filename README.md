@@ -1,4 +1,4 @@
-# Bdrl-Userbot Userbot Telegram
+# Bdrl-Userbot Telegram
 
 Bdrl-Userbot is an telegram userbot running with Python3 and using Pyrogram Library.
 
