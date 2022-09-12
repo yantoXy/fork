@@ -111,3 +111,6 @@ def heroku():
                 LOGGER("Heroku").info(
                     f"Please configure your HEROKU_API_KEY and HEROKU_APP_NAME."
                 )
+
+async def in_heroku():
+    return "heroku" in socket.getfqdn()
