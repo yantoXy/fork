@@ -32,6 +32,7 @@ while 0 < 6:
 del _BLACKLIST_CHAT
 
 BOTLOG_CHATID = int(getenv("BOTLOG_CHATID", "0"))
+BLACKLIST_GCAST = {int(x) for x in getenv("BLACKLIST_GCAST", "").split()}
 BRANCH = getenv("BRANCH", "main")
 DB_URL = getenv("DATABASE_URL", "")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
