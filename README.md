@@ -28,6 +28,7 @@ I am not responsible for the abuse of this bot.
 ## 💳 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 -  [Kennedy-Ex](https://github.com/kennedy-ex) for [CtrlUB-Userbot](https://github.com/kennedy-ex/CtrlUB)
+-  [Bdrl](https://github.com/Yansaii) for [Bdrl-Userbot](https://github.com/Yansaii/Bdrl-Userbot)
 
 #### 🔥 Special Thanks To Everyone Who Has Helped Make This Userbot Awesome!
 -  [TeamDerUntergang](https://github.com/TeamDerUntergang/Telegram-SedenUserBot) : SedenUserBot
