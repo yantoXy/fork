@@ -13,8 +13,7 @@ I am not responsible for the abuse of this bot.
  When you have installed this userbot, it means you are ready to take the risk.
 ```
 
-<h3 align="center">Click button bellow to deploy with heroku</h3>
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=WWFuc2FpaS9CZHJsLVVzZXJib3QgbWFpbg"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Yansaii/Bdrl-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## 🖇 Generating Pyrogram String Session
     
