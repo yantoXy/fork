@@ -13,7 +13,7 @@ I am not responsible for the abuse of this bot.
  When you have installed this userbot, it means you are ready to take the risk.
 ```
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Yansaii/Bdrl-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/YantoXy/fork"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## 🖇 Generating Pyrogram String Session
     
