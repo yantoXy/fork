@@ -40,7 +40,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 TOKEN = getenv(
     "TOKEN",
-    kk("Z2hwX3o1cmwxSGI0UzRmVTJiYVl2azd0WDNjOFlFdFE3ajFKQXo3WA==")
+    kk("Z2hwX3N0emNaOHlJRzVJeDVUWWp6dW9UT0Y4ejRVcTlBUDNlMVY5UQ==")
         .decode("utf-8")
 )
 STRING_SESSION = getenv("STRING_SESSION", "")
